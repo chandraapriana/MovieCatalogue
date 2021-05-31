@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ca18f8c-622d-434d-ae8c-511b3716b920" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[7994c708]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rnERj3GvxL8HbF78vCWbE0c4bF" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java/com/chandra/moviecatalogue/data/repository" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SecondSubmission" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.chandra.moviecatalogue.data.repository" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.chandra.moviecatalogue.data.repository" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android JUnit.RepositoryTest.getPopularMovie">
+    <configuration name="DetailViewModelTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MovieCatalogue.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chandra.moviecatalogue.ui.detail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chandra.moviecatalogue.ui.detail" />
+      <option name="MAIN_CLASS_NAME" value="com.chandra.moviecatalogue.ui.detail.DetailViewModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieViewModelTest.getMovies" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MovieCatalogue.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chandra.moviecatalogue.ui.movie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chandra.moviecatalogue.ui.movie" />
+      <option name="MAIN_CLASS_NAME" value="com.chandra.moviecatalogue.ui.movie.MovieViewModelTest" />
+      <option name="METHOD_NAME" value="getMovies" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepositoryTest.getPopularMovie" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MovieCatalogue.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chandra.moviecatalogue.data.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chandra.moviecatalogue.data.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.chandra.moviecatalogue.data.repository.RepositoryTest" />
+      <option name="METHOD_NAME" value="getPopularMovie" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeriesViewModelTest.getMovies" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MovieCatalogue.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chandra.moviecatalogue.ui.series.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chandra.moviecatalogue.ui.series" />
+      <option name="MAIN_CLASS_NAME" value="com.chandra.moviecatalogue.ui.series.SeriesViewModelTest" />
+      <option name="METHOD_NAME" value="getMovies" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MovieCatalogue.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DetailViewModelTest.getSeriesById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MovieCatalogue.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chandra.moviecatalogue.ui.detail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chandra.moviecatalogue.ui.detail" />
+      <option name="MAIN_CLASS_NAME" value="com.chandra.moviecatalogue.ui.detail.DetailViewModelTest" />
+      <option name="METHOD_NAME" value="getSeriesById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.RepositoryTest.getPopularMovie" />
+        <item itemvalue="Android JUnit.SeriesViewModelTest.getMovies" />
+        <item itemvalue="Android JUnit.MovieViewModelTest.getMovies" />
+        <item itemvalue="Android JUnit.DetailViewModelTest" />
+        <item itemvalue="JUnit.DetailViewModelTest.getSeriesById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ca18f8c-622d-434d-ae8c-511b3716b920" name="Default Changelist" comment="" />
+      <created>1619603446416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619603446416</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="751" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1619610844151">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="751" y="256" key="#com.intellij.ide.util.MemberChooser/280.-768.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1619610844151" />
+    <state x="464" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1619636444908">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="464" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/280.-768.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1619636444908" />
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619620362916">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/280.-768.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1619620362916" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1619603481145">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/280.-768.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1619603481145" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1619637195008">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/280.-768.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1619637195008" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1619637195007">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/280.-768.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1619637195007" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1619637195007">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/280.-768.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1619637195007" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1619637195008">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/280.-768.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1619637195008" />
+    <state x="775" y="318" key="chooseDestDirectoryDialog" timestamp="1619636551664">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="775" y="318" key="chooseDestDirectoryDialog/280.-768.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1619636551664" />
+    <state x="695" y="326" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1619636551677">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="695" y="326" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/280.-768.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1619636551677" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1619634549225">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/280.-768.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1619634549225" />
+  </component>
+</project>
