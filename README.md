@@ -26,3 +26,4 @@ Movie Catalogue App uses a number of open source projects to work properly:
 ![Home Page](https://raw.githubusercontent.com/chandraapriana/MovieCatalogue/main/photos/homepage.jpeg)
 ![Detail Page](https://raw.githubusercontent.com/chandraapriana/MovieCatalogue/main/photos/detailmovie.jpeg)
 ![Favorite Page](https://raw.githubusercontent.com/chandraapriana/MovieCatalogue/main/photos/favorite.jpeg)
+<img src="https://raw.githubusercontent.com/chandraapriana/MovieCatalogue/main/photos/favorite.jpeg" align="left" width="100" >
