@@ -23,7 +23,7 @@ Movie Catalogue App uses a number of open source projects to work properly:
 - Koin - library for depedency injection
 - Espresso - library for instrumentation test
 
-![Home Page](https://raw.githubusercontent.com/chandraapriana/MovieCatalogue/main/photos/homepage.jpeg)
-![Detail Page](https://raw.githubusercontent.com/chandraapriana/MovieCatalogue/main/photos/detailmovie.jpeg)
-![Favorite Page](https://raw.githubusercontent.com/chandraapriana/MovieCatalogue/main/photos/favorite.jpeg)
-<img src="https://raw.githubusercontent.com/chandraapriana/MovieCatalogue/main/photos/favorite.jpeg" align="left" width="100" >
+
+<img src="https://raw.githubusercontent.com/chandraapriana/MovieCatalogue/main/photos/homepage.jpeg" width="300" >
+<img src="https://raw.githubusercontent.com/chandraapriana/MovieCatalogue/main/photos/detailmovie.jpeg" width="300" >
+<img src="https://raw.githubusercontent.com/chandraapriana/MovieCatalogue/main/photos/favorite.jpeg" width="300" >
